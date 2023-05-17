@@ -4,11 +4,16 @@
 }
 ol li {
     list-style-position: inside;
+	justify-content: center;
 }
 .exam {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	border: solid;
+	justify-content: center;
+	text-align:center;
 }
 #table {
+	text-align:left;
     line-height:200%
 	padding-top: 3px;
     padding-bottom: 3px;
@@ -20,6 +25,7 @@ footer {
     padding-left:  30px;
     background: #444;
     color: white;
+	justify-content: center;
 }
 a.foo:hover {
   text-decoration-color: black;
