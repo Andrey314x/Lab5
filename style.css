@@ -10,6 +10,9 @@ ol li {
 }
 #table {
     line-height:200%
+	padding-top: 3px;
+    padding-bottom: 3px;
+	color: blue;
 }
 footer {
     padding-top: 3px;
@@ -21,6 +24,7 @@ footer {
 a.foo:hover {
   text-decoration-color: black;
   color: black;
+  border:solid;
 }
 a.foo {
   text-decoration-color: white;
